@@ -24,6 +24,7 @@ else
 echo "warning: SwiftLint not installed, download from https://github.com/realm/SwiftLint"
 
 fi
+![]()
 配置
 可以通过在你需要执行 SwiftLint 的目录下添加一个 .swiftlint.yml 文件的方式来配置 SwiftLint。可以被配置的参数有：
 
