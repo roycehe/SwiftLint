@@ -13,6 +13,6 @@ swiftlint
 else
 echo "warning: SwiftLint not installed, download from https://github.com/realm/SwiftLint"
 fi
-![]()
+![](https://github.com/roycehe/SwiftLint/blob/master/QQ20161128.png)
 
 
